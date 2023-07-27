@@ -1,7 +1,7 @@
 # Web Servers - Site Down Notifier
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/app-icons/1121550072782540800/727818f8f63e57b71e8fe5af8670444e.png?size=256" alt="Logo du bot" style="border-radius: 50%;">
+  <img src="https://cdn.discordapp.com/app-icons/1121550072782540800/727818f8f63e57b71e8fe5af8670444e.png?size=256" alt="Logo du bot" ">
 </div>
 
 ## Description
