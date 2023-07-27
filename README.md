@@ -7,22 +7,26 @@
 ## Description
 This bot is a Discord bot designed to monitor the status of servers on a specific site and report outages within a Discord channel. When the target site is inaccessible, the bot sends an embed with information about the outage, helping users stay informed in real time.
 
+
 ## License and source code price
 The price of the source code as well as obtaining the license and <span>**15€**</span> (Negotiable).
 After purchase, the source code is sent to you with support.
 Remember that the source code is protected by copyright and any use by unauthorized third parties will be prosecuted by the police, we use tools capable of finding our source codes.
 
+
 ## Source code price
 Licence, Source code & Support <span>**15€**</span> (Negotiable)
+
 
 ## Features
 - Real-time monitoring of target site status.
 - Sending informative Discord embeds when a server is down.
 - Notification channel and check frequency customization settings (Default 10000 milliseconds)
+
   
 ## How to use the bot
 
-1. Create a new bot from the panel: ![https://discord.com/developers/applications](https://discord.com/developers/applications)
+1. Create a new bot from the panel: ![](https://discord.com/developers/applications)
 2. Invite the bot to your Discord server using the resulting invite link.
 3. Configure the notification channel in which the bot will send outage messages.
 4. Specify the site you want to monitor by modifying the line `const websiteUrl = 'value';`.
