@@ -26,7 +26,7 @@ Licence, Source code & Support <span>**15€**</span> (Negotiable)
   
 ## How to use the bot
 
-1. Create a new bot from the panel: ![](https://discord.com/developers/applications)
+1. Create a new bot from the panel: https://discord.com/developers/applications
 2. Invite the bot to your Discord server using the resulting invite link.
 3. Configure the notification channel in which the bot will send outage messages.
 4. Specify the site you want to monitor by modifying the line `const websiteUrl = 'value';`.
