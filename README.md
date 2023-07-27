@@ -17,6 +17,10 @@ Remember that the source code is protected by copyright and any use by unauthori
 ## Source code price
 Licence, Source code & Support <span>**15€**</span> (Negotiable)
 
+Are you tempted? Contact us :
+contact.support@maybe-ange.com
+https://discord.gg/maybe-ange
+
 
 ## Features
 - Real-time monitoring of target site status.
@@ -56,4 +60,4 @@ By using this source code, you agree to respect the copyrights and trademarks of
 
 ## Author
 - Maybe Ange - Director of Maybe Ange™ Corporation
-- [Discord Server](https://discord.gg/maybe-ange)
+- https://discord.gg/maybe-ange
