@@ -40,7 +40,7 @@ Licence, Source code & Support <span>**15€**</span> (Negotiable)
 ![Example of Failure Notification Embed](https://github.com/MaybeAnge/Images/blob/main/Web%20Servers.png)
 
 
-## Noticed
+## Note
 This bot is provided as is, without any warranty. The use of this bot is subject to your own responsibility. We are not responsible for any damage caused by the use of this bot.
 
 
