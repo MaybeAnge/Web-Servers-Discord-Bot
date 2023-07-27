@@ -8,7 +8,7 @@
 This bot is a Discord bot designed to monitor the status of servers on a specific site and report outages within a Discord channel. When the target site is inaccessible, the bot sends an embed with information about the outage, helping users stay informed in real time.
 
 ## License and source code price
-The price of the source code as well as obtaining the license and <span style="font-size: larger;">**15€**</span> (Negotiable).
+The price of the source code as well as obtaining the license and <span>**`15€`**</span> (Negotiable).
 After purchase, the source code is sent to you with support.
 Remember that the source code is protected by copyright and any use by unauthorized third parties will be prosecuted by the police, we use tools capable of finding our source codes.
 
