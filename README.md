@@ -35,11 +35,14 @@ Licence, Source code & Support <span>**15€**</span> (Negotiable)
 7. Custom embed text `const embed = new Discord.EmbedBuilder()`
 8. Relax and let the bot do the work! It will notify you as soon as a problem is detected.
 
+
 ## Example of Failure Notification Embed
 ![Example of Failure Notification Embed](https://github.com/MaybeAnge/Images/blob/main/Web%20Servers.png)
 
+
 ## Noticed
 This bot is provided as is, without any warranty. The use of this bot is subject to your own responsibility. We are not responsible for any damage caused by the use of this bot.
+
 
 ## Licence CC-BY-ND-4.0
 Copyright Maybe Ange™ Corporation © 2023. All rights reserved.
@@ -49,6 +52,7 @@ All content in this bot, including but not limited to text, images, graphics, au
 You may not reproduce, distribute, modify, publicly display, transmit, publish or use the source code for commercial or non-commercial purposes without the prior written permission of Maybe Ange™ Corporation. Any unauthorized use of the contents of this source code constitutes copyright and trademark infringement and may result in legal action.
 
 By using this source code, you agree to respect the copyrights and trademarks of Maybe Ange™ Corporation. If you have any questions or concerns regarding the copyrights or trademarks of Maybe Ange™ Corporation, please contact our teams at the following email address: contact.support@maybe-ange.com
+
 
 ## Author
 - Maybe Ange - Director of Maybe Ange™ Corporation
