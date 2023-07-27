@@ -1,6 +1,8 @@
 # Web Servers - Site Down Notifier
 
-![Logo du bot](https://cdn.discordapp.com/app-icons/1121550072782540800/727818f8f63e57b71e8fe5af8670444e.png?size=256)
+<div align="center">
+  <img src="https://cdn.discordapp.com/app-icons/1121550072782540800/727818f8f63e57b71e8fe5af8670444e.png?size=256" alt="Logo du bot">
+</div>
 
 ## Description
 This bot is a Discord bot designed to monitor the status of servers on a specific site and report outages within a Discord channel. When the target site is inaccessible, the bot sends an embed with information about the outage, helping users stay informed in real time.
