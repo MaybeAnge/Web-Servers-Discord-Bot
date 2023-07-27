@@ -1,4 +1,4 @@
-# Web Servers - Site Down Notifier
+# Web Servers - DiscordJS bot to notify a downed website
 
 <div align="center">
   <img src="https://cdn.discordapp.com/app-icons/1121550072782540800/727818f8f63e57b71e8fe5af8670444e.png?size=256" alt="Maybe Ange Corporation">
