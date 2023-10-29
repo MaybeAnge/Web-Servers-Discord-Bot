@@ -18,7 +18,7 @@ Remember that the source code is protected by copyright and any use by unauthori
 Licence, Source code & Support <span>**15€**</span> (Negotiable)
 
 Are you tempted? Contact us : <br>
-contact.support@maybe-ange.com <br>
+https://maybe-ange.com/#contact <br>
 https://discord.gg/maybe-ange
 
 
